@@ -3,7 +3,7 @@ Some mod developer publish GitHub Repo but don't have any GitHub Releases.
 Now that [Steam Workshop Downloader](https://steamworkshopdownloader.io/) is dead, you have to build by yourself which is not very easy.
 
 So this repo have some compiled results.
-It's basically latest version as of 10 June 2022 and has not been updated since then. So it can too old for you.
+It's basically latest version as of 10 June 2022 and has not been updated since then. So it can be too old for you.
 
 I do not maintain this repo anymore because I'm not playing Cities:Skylines right now.
 
