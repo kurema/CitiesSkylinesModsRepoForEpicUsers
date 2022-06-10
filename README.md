@@ -7,6 +7,10 @@ It's basically latest version as of 10 June 2022 and has not been updated since 
 
 I do not maintain this repo anymore because I'm not playing Cities:Skylines right now.
 
+## Other docs
+* [Basic build steps for Epic users.](BuildSteps.md)
+* [Small tips for Mod developer](TipsForModDevs.md)
+
 ## Mods
 ### Mods with compiled binaries
 | Name | Repo | Where | Note |
