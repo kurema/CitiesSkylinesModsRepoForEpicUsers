@@ -30,5 +30,5 @@ If there's no "Release", use "Configuration Manager...".
   
 ![image](https://user-images.githubusercontent.com/10556974/173044235-a19cdcb3-81f6-4993-b469-9075a8aed107.png)
 
-8. If it succeed the files are in "bin/" under the directory of *.csproj.
+8. If it succeed the files are in "bin/" under the directory of `*.csproj` (Sometimes in `_requiredDLLs`. It can be changed by the developer).
   
