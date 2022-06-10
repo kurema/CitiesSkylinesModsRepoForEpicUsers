@@ -59,4 +59,4 @@ I did so you don't have to. Only if the date is close.
 [^14]: The size of the repository is big. Don't forget to delete the directory and zip files after the build if it matters.
 [^20]: Name of the mod is "Extra Landscaping Tools" but project name is "NaturalResourcesBrush". Never mind.
 [^21]: Name of the mod is "81 Tiles" but repo name is "cities-skylines-unlimiter-1", and "EightyOne.csproj". I will not repeat this further.
-[^22]: Files in "CitiesSkylines/Cities_Data/Managed" folder like ICities.dll and ColossalManaged.dll is in the [repository](https://github.com/andreharv/NetworkExtensions/tree/master/References). No comment.
+[^22]: Files in "CitiesSkylines/Cities_Data/Managed" folder like ICities.dll and ColossalManaged.dll are in the [repository](https://github.com/andreharv/NetworkExtensions/tree/master/References). No comment.
