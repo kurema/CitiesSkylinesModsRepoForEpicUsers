@@ -18,7 +18,7 @@ See [here](https://community.simtropolis.com/forums/topic/73404-modding-tutorial
 
 ![image](https://user-images.githubusercontent.com/10556974/173042156-02ec699e-e591-42df-b233-89af4af8c61a.png)
 
-5. Open `*.csproj` with text editor and search "<PostBuildEvent>", read and delete or modify.
+5. Open `*.csproj` with text editor and search "&lt;PostBuildEvent&gt;", read and delete or modify.
 6. Select "Release".
 
 ![image](https://user-images.githubusercontent.com/10556974/173045291-93eb6da5-9e7d-4d15-8489-562a63d02ee8.png)
