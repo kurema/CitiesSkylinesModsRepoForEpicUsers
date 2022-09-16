@@ -14,6 +14,6 @@ In the following are compatibility issues I encountered on 16 Sep 2022. It's lik
 With 81 Tiles and Extra Landscaping Tools disabled, I could succesfully start the new city. But it doesn't mean it works perfectly.
 
 ## Fixes
-81 Tiles has a fork, [81 Tiles 2](https://github.com/algernon-A/EightyOne2). It's actively developed right now so I don't build just now.
+81 Tiles has a fork, [81 Tiles 2](https://github.com/algernon-A/EightyOne2).
 
 Extra Landscaping Tools also has a [fixed version](https://steamcommunity.com/sharedfiles/filedetails/?id=2862940316), but where's GitHub repo?
