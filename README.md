@@ -10,6 +10,7 @@ I do not maintain this repo anymore because I'm not playing Cities:Skylines righ
 ## Other docs
 * [Basic build steps for Epic users.](BuildSteps.md)
 * [Small tips for Mod developer](TipsForModDevs.md)
+* [Compatibility Issues of 1.15.0-f7](Compatibility-1.15.0-f7.md)
 
 ## Mods
 ### Mods with compiled binaries
