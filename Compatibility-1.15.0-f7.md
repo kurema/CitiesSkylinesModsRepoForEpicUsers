@@ -1,5 +1,5 @@
 # Compatibility Issues of 1.15.0-f7
-These are compatibility issue I encountered on 16 Sep 2022. It's likely to be fixed in a few days or weeks.
+In the following are compatibility issues I encountered on 16 Sep 2022. It's likely to be fixed in a few days or weeks.
 
 | Mod | Issue | Link |
 | -- | -- | -- |
@@ -10,3 +10,5 @@ These are compatibility issue I encountered on 16 Sep 2022. It's likely to be fi
 | Node Controller Renewal | The game says the mod is too old.[^1] | |
 
 [^1]: The game says the mod is compatible with 1.15.0-f5, not 1.15.0-f7. But it's a minor update. You can just ignore.
+
+With 81 Tiles and Extra Landscaping Tools disabled, I could succesfully start the new city. But it doesn't mean it works perfectly.
