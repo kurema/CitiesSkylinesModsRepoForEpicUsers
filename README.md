@@ -24,7 +24,7 @@ I do not maintain this repo anymore because I'm not playing Cities:Skylines righ
 | [Intersection Marking Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=2140418403) | [GitHub](https://github.com/MacSergey/NodeMarkup) | in [Releases](https://github.com/MacSergey/NodeMarkup/releases) | |
 | [Network Multitool](https://steamcommunity.com/sharedfiles/filedetails/?id=2560782729) | [GitHub](https://github.com/MacSergey/NetworkMultitool) | in [Releases](https://github.com/MacSergey/NetworkMultitool/releases) | |
 | [Node Controller Renewal](https://steamcommunity.com/sharedfiles/filedetails/?id=2472062376) | [GitHub](https://github.com/MacSergey/NodeController30) | in [Releases](https://github.com/MacSergey/NodeController30/releases/) | |
-| [Fine Road Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=1844442251) | [GitHub](https://github.com/klyte45/CS-FineRoadTool) | ~in [FineRoadTool/_requiredDLLs](https://github.com/klyte45/CS-FineRoadTool/tree/master/FineRoadTool/_requiredDLLs)~ | |
+| [Fine Road Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=1844442251) | [GitHub](https://github.com/klyte45/CS-FineRoadTool) | in [libs](https://github.com/klyte45/CS-FineRoadTool/tree/master/libs) | |
 | [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2040656402) | [GitHub](https://github.com/boformer/CitiesHarmony) | in [Releases](https://github.com/boformer/CitiesHarmony/releases) | You need it to run the others! |
 | [TM:PE](https://steamcommunity.com/sharedfiles/filedetails/?id=1637663252) | [GitHub](https://github.com/CitiesSkylinesMods/TMPE/) | in [Releases](https://github.com/CitiesSkylinesMods/TMPE/releases) | |
 
