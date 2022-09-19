@@ -27,6 +27,7 @@ I do not maintain this repo anymore because I'm not playing Cities:Skylines righ
 | [Fine Road Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=1844442251) | [GitHub](https://github.com/klyte45/CS-FineRoadTool) | in [libs](https://github.com/klyte45/CS-FineRoadTool/tree/master/libs) | |
 | [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2040656402) | [GitHub](https://github.com/boformer/CitiesHarmony) | in [Releases](https://github.com/boformer/CitiesHarmony/releases) | You need it to run the others! |
 | [TM:PE](https://steamcommunity.com/sharedfiles/filedetails/?id=1637663252) | [GitHub](https://github.com/CitiesSkylinesMods/TMPE/) | in [Releases](https://github.com/CitiesSkylinesMods/TMPE/releases) | |
+| [Building Spawn Points](https://steamcommunity.com/sharedfiles/filedetails/?id=2511258910) | [GitHub](https://github.com/MacSergey/BuildingSpawnPoints) | in [Releases](https://github.com/MacSergey/BuildingSpawnPoints/releases) | |
 
 ### Mods you have to build
 I did so you don't have to. Only if the date is close.
