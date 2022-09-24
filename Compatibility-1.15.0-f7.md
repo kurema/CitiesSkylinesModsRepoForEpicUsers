@@ -18,3 +18,18 @@ With 81 Tiles and Extra Landscaping Tools disabled, I could succesfully start th
 81 Tiles has a fork, [81 Tiles 2](https://github.com/algernon-A/EightyOne2).
 
 Extra Landscaping Tools also has a [fixed version](https://steamcommunity.com/sharedfiles/filedetails/?id=2862940316), but where's GitHub repo?
+
+ ## More
+日本語話者は以下のツイートが参考になります。 / The following tweet is in Japanese but may be useful. Use translation tool or following table.
+ 
+ * [adon(shg166)'s Tweet](https://twitter.com/shg166_csl/status/1570549443824590848)
+
+| Ja | En |
+| -- | -- |
+| ゲーム本体で修正済み | Fixed in vanilla |
+| 問題があるMOD | Mods with issues |
+| 対応済み | Fixed |
+| 破損 | Corrupted |
+| エラーメッセージ | Shows a error message |
+| 安定版を使用 | Use stable |
+| 機能していない | Not working |
