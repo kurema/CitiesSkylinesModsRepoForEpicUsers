@@ -8,6 +8,7 @@ In the following are compatibility issues I encountered on 16 Sep 2022. It's lik
 | ~Intersection Marking Tool~ | ~The game says the mod is too old.[^1]~ | |
 | ~Network Multitool~ | ~The game says the mod is too old.[^1]~ | |
 | ~Node Controller Renewal~ | ~The game says the mod is too old.[^1]~ | |
+| Improved Public Transport 2 | Looks like not working. | |
 
 [^1]: ~The game says the mod is compatible with 1.15.0-f5, not 1.15.0-f7. But it's a minor update. You can just ignore.~ It's fixed next day.
 
