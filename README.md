@@ -32,7 +32,7 @@ I do not maintain this repo anymore because I'm not playing Cities:Skylines righ
 | [Hide TMPE crosswalks](https://steamcommunity.com/sharedfiles/filedetails/?id=1934023593) | [GitHub](https://github.com/CitiesSkylinesMods/HideCrosswalks) | [Releases](https://github.com/CitiesSkylinesMods/HideCrosswalks/releases) | |
 | [Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=2172488844) | [GitHub](https://github.com/Quboid/Picker) | [Releases](https://github.com/Quboid/Picker/releases) | |
 | [Move It](https://steamcommunity.com/sharedfiles/filedetails/?id=1619685021) | [GitHub](https://github.com/Quboid/CS-MoveIt) | [Releases](https://github.com/Quboid/CS-MoveIt/releases) | |
-| [Transport Lines Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=1312767991) | [GitHub](https://github.com/klyte45/TransportLinesManager) | [_requiredDLLs](https://github.com/klyte45/TransportLinesManager/tree/master/_requiredDLLs) | |
+| [Transport Lines Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=1312767991) | [GitHub](https://github.com/klyte45/TransportLinesManager) | [_requiredDLLs](https://github.com/klyte45/TransportLinesManager/tree/master/_requiredDLLs) | [^25] |
 
 ### Mods you have to build
 I did so you don't have to. Only if the date is close.
@@ -70,3 +70,4 @@ I did so you don't have to. Only if the date is close.
 [^22]: Files in "CitiesSkylines/Cities_Data/Managed" folder like ICities.dll and ColossalManaged.dll are in the [repository](https://github.com/andreharv/NetworkExtensions/tree/master/References). No comment.
 [^23]: The compiled binaries are in your mods folder under AppData/Local.
 [^24]: Incompatible with v1.15.0-f7? See [Compatibility Issues of 1.15.0-f7](Compatibility-1.15.0-f7.md).
+[^25]: Dlls are managed by Git LFS. You can't download as ZIP.
