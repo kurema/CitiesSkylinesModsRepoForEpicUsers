@@ -5,9 +5,6 @@ In the following are compatibility issues I encountered on 16 Sep 2022. It's lik
 | -- | -- | -- |
 | 81 Tiles | The game shows error message.<br />You can not make a road in the new city.<br />You can't open the existing city even if mod is disabled. (?) | [Steam](https://steamcommunity.com/workshop/filedetails/discussion/576327847/3435703754802635202/) |
 | Extra Landscaping Tools | The game show error message. | |
-| ~Intersection Marking Tool~ | ~The game says the mod is too old.[^1]~ | |
-| ~Network Multitool~ | ~The game says the mod is too old.[^1]~ | |
-| ~Node Controller Renewal~ | ~The game says the mod is too old.[^1]~ | |
 | Improved Public Transport 2 | Looks like not working. | |
 
 [^1]: ~The game says the mod is compatible with 1.15.0-f5, not 1.15.0-f7. But it's a minor update. You can just ignore.~ It's fixed next day.
@@ -19,7 +16,12 @@ With 81 Tiles and Extra Landscaping Tools disabled, I could succesfully start th
 
 Extra Landscaping Tools also has a [fixed version](https://steamcommunity.com/sharedfiles/filedetails/?id=2862940316), but where's GitHub repo?
 
- ## More
+## More
+* [🎞"CURRENT and WORKING Mods for Cities Skylines - Not Loading, Errors, Crashes, Conflicts, Fix"](https://youtu.be/NKJ5Avsb-q8) by YUMBL on YouTube
+  * [Reddit "Patch Day" Thread](https://www.reddit.com/r/CitiesSkylines/comments/xe46zx/plazas_promenades_patch_day_your_mods_are/)
+  * [Broken Mods Google Doc](https://docs.google.com/spreadsheets/d/1mVFkj_7ij4FLzKs2QJaONNmb9Z-SRqUeG6xFGqEX1ew/edit#gid=0)
+  * [StayHungryStayFoolish Mod List](https://steamcommunity.com/sharedfiles/filedetails/?id=2595470859)
+
 日本語話者は以下のツイートが参考になります。 / The following tweet is in Japanese but may be useful. Use translation tool or following table.
  
  * [adon(shg166)'s Tweet](https://twitter.com/shg166_csl/status/1570549443824590848)
