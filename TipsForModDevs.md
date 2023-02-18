@@ -1,4 +1,4 @@
-# Small tips for Mod developer.
+# Small tips for Mod developers.
 ## Publish Release and attach binaries
 1. Click "Releases" in your repository page.  
 ![image](https://user-images.githubusercontent.com/10556974/173046422-ff96fc0b-0567-4042-af0c-4bb1ed4d0931.png)
