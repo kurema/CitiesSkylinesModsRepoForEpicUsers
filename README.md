@@ -17,7 +17,7 @@ I do not maintain this repo anymore because I'm not playing Cities:Skylines righ
 ### Mods with compiled binaries
 | Name | Repo | Where | Note |
 | -- | -- | -- | -- |
-| [Fine Road Anarchy](https://steamcommunity.com/sharedfiles/filedetails/?id=1844440354) | [GitHub](https://github.com/klyte45/CS-FineRoadAnarchy) | [FineRoadAnarchy/_requiredDLLs](https://github.com/klyte45/CS-FineRoadAnarchy/tree/master/FineRoadAnarchy/_requiredDLLs) |
+| ~[Fine Road Anarchy](https://steamcommunity.com/sharedfiles/filedetails/?id=1844440354)~ | ~[GitHub](https://github.com/klyte45/CS-FineRoadAnarchy)~ | ~[FineRoadAnarchy/_requiredDLLs](https://github.com/klyte45/CS-FineRoadAnarchy/tree/master/FineRoadAnarchy/_requiredDLLs)~ | Use Network Anarchy instead. |
 | [Hide it, Bobby!](https://steamcommunity.com/sharedfiles/filedetails/?id=2513657277) | [GitHub](https://github.com/TheCSUser/HideItBobby) | [Releases](https://github.com/TheCSUser/HideItBobby/releases) | Confilict? |
 | [Yet Another Toolbar](https://steamcommunity.com/sharedfiles/filedetails/?id=2448994345) | [GitHub](https://github.com/sway2020/YetAnotherToolbar) | [Releases](https://github.com/sway2020/YetAnotherToolbar/releases) |
 | [UnifiedUI](https://steamcommunity.com/sharedfiles/filedetails/?id=2255219025) | [GitHub](https://github.com/kianzarrin/UnifiedUI) | [Releases](https://github.com/kianzarrin/UnifiedUI/releases) | |
@@ -25,7 +25,7 @@ I do not maintain this repo anymore because I'm not playing Cities:Skylines righ
 | [Intersection Marking Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=2140418403) | [GitHub](https://github.com/MacSergey/NodeMarkup) | [Releases](https://github.com/MacSergey/NodeMarkup/releases) | |
 | [Network Multitool](https://steamcommunity.com/sharedfiles/filedetails/?id=2560782729) | [GitHub](https://github.com/MacSergey/NetworkMultitool) | [Releases](https://github.com/MacSergey/NetworkMultitool/releases) | |
 | [Node Controller Renewal](https://steamcommunity.com/sharedfiles/filedetails/?id=2472062376) | [GitHub](https://github.com/MacSergey/NodeController30) | [Releases](https://github.com/MacSergey/NodeController30/releases/) | |
-| ~~[Fine Road Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=1844442251)~~ | ~~[GitHub](https://github.com/klyte45/CS-FineRoadTool)~~ | ~~[libs](https://github.com/klyte45/CS-FineRoadTool/tree/master/libs)~~ | Files does not exist in latest commit. |
+| ~~[Fine Road Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=1844442251)~~ | ~~[GitHub](https://github.com/klyte45/CS-FineRoadTool)~~ | ~~[libs](https://github.com/klyte45/CS-FineRoadTool/tree/master/libs)~~ | Use Network Anarchy instead. |
 | [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2040656402) | [GitHub](https://github.com/boformer/CitiesHarmony) | [Releases](https://github.com/boformer/CitiesHarmony/releases) | You need it to run the others! |
 | [TM:PE](https://steamcommunity.com/sharedfiles/filedetails/?id=1637663252) | [GitHub](https://github.com/CitiesSkylinesMods/TMPE/) | [Releases](https://github.com/CitiesSkylinesMods/TMPE/releases) | |
 | [Building Spawn Points](https://steamcommunity.com/sharedfiles/filedetails/?id=2511258910) | [GitHub](https://github.com/MacSergey/BuildingSpawnPoints) | [Releases](https://github.com/MacSergey/BuildingSpawnPoints/releases) | |
@@ -33,7 +33,9 @@ I do not maintain this repo anymore because I'm not playing Cities:Skylines righ
 | [Hide TMPE crosswalks](https://steamcommunity.com/sharedfiles/filedetails/?id=1934023593) | [GitHub](https://github.com/CitiesSkylinesMods/HideCrosswalks) | [Releases](https://github.com/CitiesSkylinesMods/HideCrosswalks/releases) | |
 | [Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=2172488844) | [GitHub](https://github.com/Quboid/Picker) | [Releases](https://github.com/Quboid/Picker/releases) | |
 | [Move It](https://steamcommunity.com/sharedfiles/filedetails/?id=1619685021) | [GitHub](https://github.com/Quboid/CS-MoveIt) | [Releases](https://github.com/Quboid/CS-MoveIt/releases) | |
-| [Transport Lines Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=1312767991) | [GitHub](https://github.com/klyte45/TransportLinesManager) | [_requiredDLLs](https://github.com/klyte45/TransportLinesManager/tree/master/_requiredDLLs) | [^25]  Archived. |
+| ~[Transport Lines Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=1312767991)~ | ~[GitHub](https://github.com/klyte45/TransportLinesManager)~ | ~[_requiredDLLs](https://github.com/klyte45/TransportLinesManager/tree/master/_requiredDLLs)~ | [^25]  Archived. |
+| [Network Anarchy](https://steamcommunity.com/sharedfiles/filedetails/?id=2862881785) | [GitHub](https://github.com/Quboid/NetworkAnarchy) | [Releases](https://github.com/Quboid/NetworkAnarchy/releases) | |
+
 
 ### Mods you have to build
 I did so you don't have to. Only if the date is close. "Build note" is not actively maintained now.
