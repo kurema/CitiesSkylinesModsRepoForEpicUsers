@@ -18,7 +18,7 @@ I do not maintain this repo anymore because I'm not playing Cities:Skylines righ
 | Name | Repo | Where | Note |
 | -- | -- | -- | -- |
 | ~[Fine Road Anarchy](https://steamcommunity.com/sharedfiles/filedetails/?id=1844440354)~ | ~[GitHub](https://github.com/klyte45/CS-FineRoadAnarchy)~ | ~[FineRoadAnarchy/_requiredDLLs](https://github.com/klyte45/CS-FineRoadAnarchy/tree/master/FineRoadAnarchy/_requiredDLLs)~ | Use Network Anarchy instead. |
-| [Hide it, Bobby!](https://steamcommunity.com/sharedfiles/filedetails/?id=2513657277) | [GitHub](https://github.com/TheCSUser/HideItBobby) | [Releases](https://github.com/TheCSUser/HideItBobby/releases) | Confilict? |
+| ~[Hide it, Bobby!](https://steamcommunity.com/sharedfiles/filedetails/?id=2513657277)~ | ~[GitHub](https://github.com/TheCSUser/HideItBobby)~ | ~[Releases](https://github.com/TheCSUser/HideItBobby/releases)~ | Broken. Use "Hide it!" instead. |
 | [Yet Another Toolbar](https://steamcommunity.com/sharedfiles/filedetails/?id=2448994345) | [GitHub](https://github.com/sway2020/YetAnotherToolbar) | [Releases](https://github.com/sway2020/YetAnotherToolbar/releases) |
 | [UnifiedUI](https://steamcommunity.com/sharedfiles/filedetails/?id=2255219025) | [GitHub](https://github.com/kianzarrin/UnifiedUI) | [Releases](https://github.com/kianzarrin/UnifiedUI/releases) | |
 | ~~[Upgrade Untouchable: Convert stations](https://steamcommunity.com/sharedfiles/filedetails/?id=2629141193)~~ | ~~[GitHub](https://github.com/klyte45/TouchThisTool)~~ | ~~[_requiredDLLs](https://github.com/klyte45/TouchThisTool/tree/master/_requiredDLLs)~~ | Folder does not exist in latest commit. |
