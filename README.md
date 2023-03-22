@@ -56,7 +56,7 @@ I did so you don't have to. Only if the date is close. "Build note" is not activ
 | [Improved Transport Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2888964436) | [GitHub](https://github.com/klyte45/ImprovedTransportManager) | Not specified | - | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/18-February-2023) | [4419774](https://github.com/klyte45/ImprovedTransportManager/commit/4419774e96125ccb073d5f1badba5e93c87a4c40) on 4 Feb 2023 |
 | [Move It](https://steamcommunity.com/sharedfiles/filedetails/?id=1619685021) | [GitHub](https://github.com/Quboid/CS-MoveIt) | [MIT](https://github.com/Quboid/CS-MoveIt/blob/master/LICENSE.txt) | Temporary[^26] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/22-March-2023) | v2.10.1([0f4724f](https://github.com/Quboid/CS-MoveIt/commit/0f4724f2fb55e53fe3cf4bf0b930d11f0a64c0c6)) on 18 March 2023 |
 | [RON, the network replacer](https://steamcommunity.com/sharedfiles/filedetails/?id=2405917899) | [GitHub](https://github.com/algernon-A/RON) | [MIT](https://github.com/algernon-A/RON/blob/master/License.txt) | | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/22-March-2023) | [6eabdb1](https://github.com/algernon-A/RON/commit/6eabdb18b6ef4efc83deae32a410710c076d2096) on 22 Feb 2023 |
-
+| [Font Selector](https://steamcommunity.com/workshop/filedetails/?id=412149127)? | [GitHub](https://github.com/nyjin/CitiesSkylineFontSelectorMod) | [Apache License 2.0](https://github.com/nyjin/CitiesSkylineFontSelectorMod/blob/master/LICENSE) | [^27] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/22-March-2023) | [4cd8c58](https://github.com/nyjin/CitiesSkylineFontSelectorMod/commit/4cd8c581154f914e20b6a252eaa904c5f908b772) on 24 July 2017 |
 
 [^1]: You have to add references.
 [^2]: You should delete PostBuildEvent (and sometimes PreBuildEvent) to build successfully. Or update it to match your environment, in that case theres no need for [^8][^9][^10].
@@ -79,3 +79,4 @@ I did so you don't have to. Only if the date is close. "Build note" is not activ
 [^24]: Incompatible with v1.15.0-f7? See [Compatibility Issues of 1.15.0-f7](Compatibility-1.15.0-f7.md).
 [^25]: Dlls are managed by Git LFS. You can't download as ZIP.
 [^26]: Latest release is not yet in GitHub Release as of March 23, 2023. Download from the original repository if there's latest one.
+[^27]: The link to GitHub is not in Steam page and the name of the author is different. I don't think they are same.
