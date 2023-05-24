@@ -80,4 +80,4 @@ I did so you don't have to. Only if the date is close. "Build note" is not activ
 [^25]: Dlls are managed by Git LFS. You can't download as ZIP.
 [^26]: Latest release is not yet in GitHub Release as of March 23, 2023. Download from the original repository if there's latest one. Now March 23, 2023 there's latest release.
 [^27]: The link to GitHub is not in Steam page and the name of the author is different. I don't think they are same.
-[^28]: 81 Tiles 2 is incompatible with this mod.
+[^28]: 81 Tiles 2 is incompatible with this mod. ([source](https://github.com/algernon-A/EightyOne2/blob/5f00e199c16a21e6c6aaaced4cd98a864b23a6ee/Code/ConflictDetection.cs#L125))
