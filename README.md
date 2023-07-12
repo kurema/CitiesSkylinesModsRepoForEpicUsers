@@ -15,8 +15,13 @@ I don't play Cities:Skylines often, so I don't maintain this repository much.
 * ~[Compatibility Issues of 1.15.0-f7](Compatibility-1.15.0-f7.md)~
 * [Google Docs - Broken & Incompatible Mods - Patch 1.16.0-f3](https://docs.google.com/spreadsheets/d/1mVFkj_7ij4FLzKs2QJaONNmb9Z-SRqUeG6xFGqEX1ew/edit) (Official?)
 
+## Security
+Mod of Cirites: Skylines is basically just a .NET library. There's no sandbox (I think) and they have various risks. I do believe that these repositories published on GitHub contain no malicious code, but you have to use them at your own risk. And I don't know about binaries in other repositories.
+
+Anyway, I guarantee I've not done anything malicious. I just get it, edit it to get the build to pass, build it and pulish it here. Also, all Mods listed below have been tried by me at least once.
+
 ## Mods
-### Mods with compiled binaries
+### Mods with compiled binaries by original developers
 | Name | Repo | Where | Note |
 | -- | -- | -- | -- |
 | ~[Fine Road Anarchy](https://steamcommunity.com/sharedfiles/filedetails/?id=1844440354)~ | ~[GitHub](https://github.com/klyte45/CS-FineRoadAnarchy)~ | ~[FineRoadAnarchy/_requiredDLLs](https://github.com/klyte45/CS-FineRoadAnarchy/tree/master/FineRoadAnarchy/_requiredDLLs)~ | Use Network Anarchy instead. |
@@ -39,8 +44,8 @@ I don't play Cities:Skylines often, so I don't maintain this repository much.
 | [Network Anarchy](https://steamcommunity.com/sharedfiles/filedetails/?id=2862881785) | [GitHub](https://github.com/Quboid/NetworkAnarchy) | [Releases](https://github.com/Quboid/NetworkAnarchy/releases) | |
 
 
-### Mods you have to build
-I did so you don't have to. Only if the date is close. "Build note" is not actively maintained now.
+### Mods with compiled binaries here
+I compiled so you don't have to. Do it yourself if the date isn't close. "Build note" is not actively maintained now.
 
 | Name | Repo | License |  Build note | Binary | Binary version |
 | -- | -- | -- | -- | -- | -- |
@@ -81,6 +86,14 @@ I did so you don't have to. Only if the date is close. "Build note" is not activ
 [^23]: The compiled binaries are in your mods folder under AppData/Local.
 [^24]: Incompatible with v1.15.0-f7? See [Compatibility Issues of 1.15.0-f7](Compatibility-1.15.0-f7.md).
 [^25]: Dlls are managed by Git LFS. You can't download as ZIP.
-[^26]: Latest release is not yet in GitHub Release as of March 23, 2023. Download from the original repository if there's latest one. Now March 23, 2023 there's latest release.
+[^26]: ~Latest release was not yet in GitHub Release as of March 23, 2023. Download from the original repository if there's latest one.~ Now March 23, 2023 there's latest release.
 [^27]: The link to GitHub is not in Steam page and the name of the author is different. I don't think they are same.
 [^28]: 81 Tiles 2 is incompatible with this mod. ([source](https://github.com/algernon-A/EightyOne2/blob/5f00e199c16a21e6c6aaaced4cd98a864b23a6ee/Code/ConflictDetection.cs#L125))
+
+### Mods with thirdparty binaries
+Binaries compiled by someone other than the original developer like this here.
+Currently there's nothing. I'll add link when it is mentioned in [Issues](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/issues) or [Pull Requests](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/pulls).
+
+| Name | Original Repo | License | Compiled by | Link | Note |
+| -- | -- | -- | -- | -- | -- |
+| - | - | - | - | - |
