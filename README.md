@@ -18,7 +18,7 @@ I don't play Cities:Skylines often, so I don't maintain this repository much.
 ## Security
 Mod of Cirites: Skylines is basically just a .NET library. There's no sandbox (I think) and they have various risks. I do believe that these repositories published on GitHub contain no malicious code, but you have to use them at your own risk. And I don't know about binaries in other repositories.
 
-Anyway, I guarantee I've not done anything malicious. I just get it, edit it to get the build to pass, build it and pulish it here. Also, all Mods listed below have been tried by me at least once.
+Anyway, I guarantee I've not done anything malicious. I just got it, edited it to get the build to pass, built it and pulished it here. Also, all Mods listed below have been tried by me at least once.
 
 ## Mods
 ### Mods with compiled binaries by original developers
@@ -90,7 +90,7 @@ I compiled so you don't have to. Do it yourself if the date isn't close. "Build 
 [^27]: The link to GitHub is not in Steam page and the name of the author is different. I don't think they are same.
 [^28]: 81 Tiles 2 is incompatible with this mod. ([source](https://github.com/algernon-A/EightyOne2/blob/5f00e199c16a21e6c6aaaced4cd98a864b23a6ee/Code/ConflictDetection.cs#L125))
 
-### Mods with thirdparty binaries
+### Mods with compiled binaries by someone else
 Binaries compiled by someone other than the original developer like this here.
 Currently there's nothing. I'll add link when it is mentioned in [Issues](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/issues) or [Pull Requests](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/pulls).
 
