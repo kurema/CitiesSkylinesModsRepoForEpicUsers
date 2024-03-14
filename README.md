@@ -13,7 +13,7 @@ I don't play Cities:Skylines often, so I don't maintain this repository much.
 * [Basic build steps for Epic users.](BuildSteps.md)
 * [Small tips for Mod developers.](TipsForModDevs.md)
 * ~[Compatibility Issues of 1.15.0-f7](Compatibility-1.15.0-f7.md)~
-* [Google Docs - Broken & Incompatible Mods - Patch 1.16.0-f3](https://docs.google.com/spreadsheets/d/1mVFkj_7ij4FLzKs2QJaONNmb9Z-SRqUeG6xFGqEX1ew/edit) (Official?)
+* [Google Docs - [Cities Skylines] Broken & Incompatible Mods - Patch 1.17.1-f4](https://docs.google.com/spreadsheets/d/1mVFkj_7ij4FLzKs2QJaONNmb9Z-SRqUeG6xFGqEX1ew/edit) (Official?)
 
 ## Security
 Mod of Cirites: Skylines is basically just a .NET library. There's no sandbox (I think) and they have various risks. I do believe that these repositories published on GitHub contain no malicious code, but you have to use them at your own risk. And I don't know about binaries in other repositories.
