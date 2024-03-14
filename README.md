@@ -4,7 +4,7 @@ Now that [Steam Workshop Downloader](https://steamworkshopdownloader.io/) is dea
 
 So this repo have some compiled results.
 They are basically latest version as of **14 May 2024**, and has not been updated since then.
-Version 1.17.0, which was released on 23 May 2023, is likely to be the final version of Cities: Skylines 1 and all Mods builder seems to Moves to CS:2.
+Version 1.17.0, which was released on 23 May 2023, is likely to be the final version of Cities: Skylines 1 and all Mods builder seems to have moved to CS:2.
 Therefore, even though the compiled results have not been updated since then, it is highly likely that they will still work without any issues even today.
 
 I don't play Cities:Skylines often, so I don't maintain this repository much.
