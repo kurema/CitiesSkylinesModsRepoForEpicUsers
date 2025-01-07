@@ -3,8 +3,8 @@ Some mod developer publish GitHub Repo but don't have any GitHub Releases.
 Now that [Steam Workshop Downloader](https://steamworkshopdownloader.io/) is dead, you have to build by yourself which is not very easy.
 
 So this repo have some compiled results.
-They are basically latest version as of **14 May 2024**, and has not been updated since then.
-Version 1.17.0, which was released on 23 May 2023, is likely to be the final version of Cities: Skylines 1 and all Mods builder seems to have moved to CS:2.
+They are basically latest version as of **7 Jan 2024**, and has not been updated since then.
+Version 1.18.1-f3, which was released on 24 Oct 2024, is likely to be the final version of Cities: Skylines 1 and all Mods builder seems to have moved to CS:2.
 Therefore, even though the compiled results have not been updated since then, it is highly likely that they will still work without any issues even today.
 
 I don't play Cities:Skylines often, so I don't maintain this repository much.
@@ -14,6 +14,8 @@ I don't play Cities:Skylines often, so I don't maintain this repository much.
 * [Small tips for Mod developers.](TipsForModDevs.md)
 * ~[Compatibility Issues of 1.15.0-f7](Compatibility-1.15.0-f7.md)~
 * [Google Docs - [Cities Skylines] Broken & Incompatible Mods - Patch 1.17.1-f4](https://docs.google.com/spreadsheets/d/1mVFkj_7ij4FLzKs2QJaONNmb9Z-SRqUeG6xFGqEX1ew/edit) (Official?)
+
+Mods Directory: %LocalAppData%\Colossal Order\Cities_Skylines\Addons\Mods
 
 ## Security
 Mod of Cities:Skylines is basically just a .NET library. There's no sandbox (I think) and they have various risks. I do believe that these repositories published on GitHub contain no malicious code, but you have to use them at your own risk. And I don't know about binaries in other repositories.
@@ -58,7 +60,7 @@ I compiled so you don't have to. Do it yourself if the date isn't close. "Build 
 | [Precision Engineering](https://steamcommunity.com/sharedfiles/filedetails/?id=445589127) | [GitHub](https://github.com/Simie/PrecisionEngineering) | [MIT?](https://github.com/Simie/PrecisionEngineering/blob/master/LICENSE.txt) | [^1] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/10-June-2022) | [7d75828](https://github.com/Simie/PrecisionEngineering/commit/7d75828809851224ac9e397a4002b57b1d00c544) on 20 Oct 2021 |
  | [Network Extensions 2](https://steamcommunity.com/sharedfiles/filedetails/?id=812125426) | [GitHub](https://github.com/andreharv/NetworkExtensions) [^22] | Not specified | [^1][^2][^12][^13][^14] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/16-September-2022) | [71a11b2](https://github.com/andreharv/NetworkExtensions/commit/71a11b26a376b4bc3393aadd62fa51ddd9c5b6ae) on 16 Sep 2022 |
 | [81 Tiles 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2862121823) | [GitHub](https://github.com/algernon-A/EightyOne2) | [MIT](https://github.com/algernon-A/EightyOne2/blob/master/LICENSE.txt) | [^1][^3][^9] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/14-March-2024) | v1.0.3 ([139a1e0](https://github.com/algernon-A/EightyOne2/commit/139a1e04753b482e243ff3f135ea1bac103ee28f)) on Nov 14, 2023 |
-| [Loading Screen Mod Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2858591409) | [GitHub](https://github.com/algernon-A/LSM-Revisited/) | Not specified | [^1][^23] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/14-March-2024) | v1.1.9 ([95fbb5c](https://github.com/algernon-A/LSM-Revisited/commit/95fbb5c440ab5ee2f2fca11707df889c3a8b2e6a)) on Sep 14, 2023 |
+| [Loading Screen Mod Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2858591409) | [GitHub](https://github.com/algernon-A/LSM-Revisited/) | Not specified | [^1][^23] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/14-March-2024) | v1.1.10 ([113d72c](https://github.com/algernon-A/LSM-Revisited/commit/113d72c2d0f9102b2975021d7e9266a94dfd7c33)) on  Dec 15, 2024 |
 | [Airport Roads](https://steamcommunity.com/sharedfiles/filedetails/?id=465127441) | [GitHub](https://github.com/SamsamTS/CS-AirportRoads) | [GPL-2.0](https://github.com/SamsamTS/CS-AirportRoads/blob/master/LICENSE) | [^1][^2][^3] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/16-September-2022) | [b2fca31](https://github.com/SamsamTS/CS-AirportRoads/commit/b2fca31e4b23de2844d08e2c310601d8d6f726c9) on 29 May 2018 |
 | [Improved Transport Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2888964436) | [GitHub](https://github.com/klyte45/ImprovedTransportManager) | Not specified | - | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/18-February-2023) | [4419774](https://github.com/klyte45/ImprovedTransportManager/commit/4419774e96125ccb073d5f1badba5e93c87a4c40) on 4 Feb 2023 |
 | ~[Move It](https://steamcommunity.com/sharedfiles/filedetails/?id=1619685021)~ | ~[GitHub](https://github.com/Quboid/CS-MoveIt)~ | ~[MIT](https://github.com/Quboid/CS-MoveIt/blob/master/LICENSE.txt)~ | Temporary[^26] | [Release](https://github.com/kurema/CitiesSkylinesModsRepoForEpicUsers/releases/tag/22-March-2023) | v2.10.1([0f4724f](https://github.com/Quboid/CS-MoveIt/commit/0f4724f2fb55e53fe3cf4bf0b930d11f0a64c0c6)) on 18 March 2023 |
